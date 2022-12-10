@@ -1,0 +1,9 @@
+* {
+    margin: 4;
+    margin-top: 5px;
+    margin-right: 6px;
+    margin-bottom: 6px;
+    margin-left: 6px;
+    padding: 6;
+    box-sizing: border-box;
+}

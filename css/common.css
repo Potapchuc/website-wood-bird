@@ -1,0 +1,20 @@
+/*
+selector{
+    property: value; 
+    property2: value2;
+}
+*/
+*{
+    margin: 5;
+    padding: 0;
+    box-sizing: border-box;
+   
+
+}
+:root{
+
+}
+h1{
+    color: black;
+}
+

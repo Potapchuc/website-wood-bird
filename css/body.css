@@ -2,45 +2,36 @@ h2{
     text-align: center;
 }
 #send-address{
-    margin-top: 0px;
+   /* margin-top: 0px;
     margin-right: 50%;
     margin-bottom: 0px;
     margin-left: 40%;
+    background-color: goldenrod;
+    padding: 10px, 40px, 10px, 50px;*/
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    }
+#submit{
+    margin-top: 0px;
+    margin-right: 40%;
+    margin-bottom: 0px;
+    margin-left: 2%;
+    background-color: rgb(109, 131, 146);
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
 #email{
     margin-top: 0px;
     margin-right: 40%;
     margin-bottom: 0px;
     margin-left: 2%;
-}
-
-/*{
     background-color: beige;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-   
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
 }
-*{
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
+feeder-can{
+    text-align: justify;
 }
-*{
-    padding: 0%;
-}
-.img__logo{
-    width:  100%;
-    max-width: max-content;
-    
-}
-.logoheader-img-logo{
-    width: 100%;
-    height: 100%;
-    max-width: 20px;
-    display: flexbox;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin-left: 20px;
-}
-*/

@@ -1,8 +1,12 @@
+#header_page{
+    display: flex;
+    
+}
 .img__logo {
     top: 210;
     min-height: 35px;
     padding: 10px 0px 50px 5px;
-    display: inline;
+   /* display: inline;*/
     justify-content: space-around;
     align-items: center;
 }
@@ -13,14 +17,16 @@
 
 nav {
     display: inline;
+    text-align: center; 
 }
 
 .nav__bar {
-    display: inline-flex;
-    margin-top: 0px;
-    margin-right: 0px;
-    margin-bottom: 20px;
-    margin-left: 60px;
+  display: inline-flex;
+    margin-top: 45px;
+    margin-right:auto;
+    margin-bottom: auto;
+    margin-left:0%;
+    text-align: center;
 }
 
     .nav__bar-link {

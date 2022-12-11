@@ -34,3 +34,7 @@ h2 {
     align-items: center;
     width: 30px 40px 80px;
 }
+.desk-placing{
+    display: flex;
+    }
+    

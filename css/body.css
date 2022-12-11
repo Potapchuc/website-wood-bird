@@ -29,4 +29,8 @@ h2 {
 }
 .line-material{
     display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 30px 40px 80px;
 }

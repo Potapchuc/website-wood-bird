@@ -28,11 +28,19 @@ nav {
     margin-left:0%;
     text-align: center;
 }
-
     .nav__bar-link {
         padding: 0px, 4px, 0, 4px;
         margin-top: 6px;
         margin-right: 2px;
         margin-bottom: 2px;
         margin-left: 30px;
+        text-decoration: none;
     }
+    .nav__bar-link:hover{
+        text-decoration: underline;
+    }
+    @media(min-width: 515px){
+        header_text_logo {
+            display: flex;
+    }
+}

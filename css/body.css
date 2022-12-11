@@ -1,18 +1,13 @@
-h2{
+h2 {
     text-align: center;
+    display: block;
 }
-#send-address{
-   /* margin-top: 0px;
-    margin-right: 50%;
-    margin-bottom: 0px;
-    margin-left: 40%;
-    background-color: goldenrod;
-    padding: 10px, 40px, 10px, 50px;*/
+#send-address {
     display: block;
     margin-right: auto;
     margin-left: auto;
-    }
-#submit{
+}
+#submit {
     margin-top: 0px;
     margin-right: 40%;
     margin-bottom: 0px;
@@ -22,7 +17,7 @@ h2{
     margin-right: auto;
     margin-left: auto;
 }
-#email{
+#email {
     margin-top: 0px;
     margin-right: 40%;
     margin-bottom: 0px;
@@ -32,6 +27,6 @@ h2{
     margin-right: auto;
     margin-left: auto;
 }
-feeder-can{
-    text-align: justify;
+.line-material{
+    display: flex;
 }

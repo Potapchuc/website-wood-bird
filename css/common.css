@@ -1,20 +1,15 @@
-/*
-selector{
-    property: value; 
-    property2: value2;
-}
-*/
 *{
-    margin: 5;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
-   
-
-}
+    background-color: goldenrod;
+   }
 :root{
-
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
     color: black;
 }
-
+li {
+    list-style: none;
+    }

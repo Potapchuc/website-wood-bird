@@ -3,7 +3,7 @@ h2 {
     display: block;
 }
 #send-address {
-    display: block;
+    display: inline;
     margin-right: auto;
     margin-left: auto;
 }

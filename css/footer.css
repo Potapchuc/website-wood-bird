@@ -1,4 +1,5 @@
-.final-information{
+
+.final__information{
         display: flex;
         flex-direction: row;
         flex-wrap: nowrap;
@@ -8,9 +9,11 @@
         padding: 10px;
         justify-content: space-around;
         align-items: center;
-        text-decoration: none;
-    }
-   
-.final-information:hover {
-    text-decoration: underline;
+        }
+
+.inal__information-under{
+    text-decoration: none;
+}
+.inal__information-under:hover{
+    text-decoration: underline;   
 }

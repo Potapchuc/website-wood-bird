@@ -1,0 +1,16 @@
+.final-information{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: flex-end;
+        align-items: stretch;
+        align-content: stretch;
+        padding: 10px;
+        justify-content: space-around;
+        align-items: center;
+        text-decoration: none;
+    }
+   
+.final-information:hover {
+    text-decoration: underline;
+}

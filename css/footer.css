@@ -1,4 +1,8 @@
-
+.feeder{
+    display: flex;
+    flex-direction: column-reverse;
+    padding: 10px;
+}
 .final__information{
         display: flex;
         flex-direction: row;
